@@ -1,8 +1,14 @@
 ![Banner](resources/banner.png)
 
-## About Me...
+## 🙋🏽‍♂️ About Me...
 
-I am interested in software development and the integration of artificial intelligence in this field. I have a strong knowledge of languages such as Python, Java, JavaScript, C++, and web technologies, as well as a basic understanding of machine learning. I’m good at solving problems, communicating effectively, and adapting to new situations.
+Hey, I’m Carlos, a Computer Engineering student at the University of Murcia. I’m passionate about tech, especially software development and artificial intelligence. I’ve got solid skills in programming languages like Java, Python, and C++, along with experience in full-stack development. I’m also diving deep into machine learning and intelligent system design, which I find super exciting.
+
+I enjoy tackling complex problems and coming up with practical solutions, and I’m always up for a challenge. I’m good at communicating ideas clearly and working with others, and I adapt quickly to new situations. I’m constantly looking for opportunities to learn, grow, and apply my skills in real-world projects.
+
+I am excited about the opportunities in this sector and eager to continue expanding my knowledge.
+
+## 🖥️ Languages and Technologies
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -18,9 +24,7 @@ I am interested in software development and the integration of artificial intell
 
 <br><br>
 
-I am excited about the opportunities in this sector and eager to continue expanding my knowledge.
-
-## More...
+## 🌏 More...
 
 - 🔭 I’m currently working on something cool...
 - 🌱 I’m currently learning ML
