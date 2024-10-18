@@ -1,4 +1,4 @@
-[![Banner]("resources/banner.png")]
+![Banner](resources/banner.png)
 
 <!--
 **C-HernanG/C-HernanG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
