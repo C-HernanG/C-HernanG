@@ -24,4 +24,4 @@ I am excited about the opportunities in this sector and eager to continue expand
 
 - 🔭 I’m currently working on something cool...
 - 🌱 I’m currently learning ML
-- ⚡ Fun fact: I love to surf and listening to music
+- ⚡ Fun fact: I love to surf and listen to music
