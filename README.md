@@ -2,7 +2,7 @@
 
 ## 🙋🏽‍♂️ About Me...
 
-Hey, I’m Carlos, a Computer Engineering student at the University of Murcia. I’m passionate about tech, especially software development and artificial intelligence. I’ve got solid skills in programming languages like Java, Python, and C++, along with experience in full-stack development. I’m also diving deep into machine learning and intelligent system design, which I find super exciting.
+I’m passionate about tech, especially software development and artificial intelligence. I’ve got solid skills in programming languages like Java, Python, and C++, along with experience in full-stack development. I’m also diving deep into machine learning and intelligent system design, which I find super exciting.
 
 I enjoy tackling complex problems and coming up with practical solutions, and I’m always up for a challenge. I’m good at communicating ideas clearly and working with others, and I adapt quickly to new situations. I’m constantly looking for opportunities to learn, grow, and apply my skills in real-world projects.
 
