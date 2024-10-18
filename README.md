@@ -17,6 +17,8 @@ I am interested in software development and the integration of artificial intell
 <img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" style="padding-right:10px;" />
 <img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="padding-right:10px;" />
 
+<br><br>
+
 I am excited about the opportunities in this sector and eager to continue expanding my knowledge.
 
 ## More...
