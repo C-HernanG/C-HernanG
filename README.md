@@ -2,9 +2,9 @@
 
 ## 🙋🏽‍♂️ About Me...
 
-I’m passionate about tech, especially software development and artificial intelligence. I’ve got solid skills in programming languages like Java, Python, and C++, along with experience in full-stack development. I’m also diving deep into machine learning and intelligent system design, which I find super exciting.
+I’m passionate about creating smart and efficient solutions, with a strong focus on software engineering and artificial intelligence. I’ve got solid skills in programming languages like Java, Python, and C++, along with experience in full-stack development. I am particularly fascinated by how AI can be used to solve real-world problems, from optimizing processes to creating predictive models that improve decision-making. I’ve explored areas like machine learning, deep learning, computer vision, and intelligent system design, and I’m continually amazed by the potential these technologies have to transform industries.
 
-I enjoy tackling complex problems and coming up with practical solutions, and I’m always up for a challenge. I’m good at communicating ideas clearly and working with others, and I adapt quickly to new situations. I’m constantly looking for opportunities to learn, grow, and apply my skills in real-world projects.
+I’m good at communicating ideas clearly and working collaboratively with others, believing that teamwork is a vital component of any successful project. I adapt quickly to new situations and technologies, often taking on challenges as opportunities to learn and grow.
 
 I am excited about the opportunities in this sector and eager to continue expanding my knowledge.
 
@@ -27,5 +27,4 @@ I am excited about the opportunities in this sector and eager to continue expand
 ## 🌏 More...
 
 - 🔭 I’m currently working on something cool...
-- 🌱 I’m currently learning ML
-- ⚡ Fun fact: I love to surf and listen to music
+- ⚡ Fun fact: Bodyboarding is my way to recharge and find inspiration.
