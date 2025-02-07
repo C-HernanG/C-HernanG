@@ -8,7 +8,7 @@
 * Working on personal projects and open-source contributions
 * Always looking for ways to optimize, automate, and innovate
 
-🚀 Soft Skills: Critical Thinking, Communication, Collaboration, Creativity
+🚀 Soft Skills: Critical Thinking, Communication, Collaboration, Creativity <br>
 🔗 Open to: AI projects, software development, and open-source initiatives
 
 📌 Let’s connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/carlos-hernán-guirao-9b120b27b/)
