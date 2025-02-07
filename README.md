@@ -2,11 +2,17 @@
 
 ## 🙋🏽‍♂️ About Me...
 
-I’m passionate about creating smart and efficient solutions, with a strong focus on software engineering and artificial intelligence. I’ve got solid skills in programming languages like Java, Python, and C++, along with experience in full-stack development. I am particularly fascinated by how AI can be used to solve real-world problems, from optimizing processes to creating predictive models that improve decision-making. I’ve explored areas like machine learning, deep learning, computer vision, and intelligent system design, and I’m continually amazed by the potential these technologies have to transform industries.
+* Passionate about software engineering, AI, and automation
+* Currently learning full-stack development, machine learning, and computer vision
+* Strong in problem-solving, adaptability, and teamwork
+* Working on personal projects and open-source contributions
+* Always looking for ways to optimize, automate, and innovate
 
-I’m good at communicating ideas clearly and working collaboratively with others, believing that teamwork is a vital component of any successful project. I adapt quickly to new situations and technologies, often taking on challenges as opportunities to learn and grow.
+🛠 Tech Stack: Python, Java, C++, Bash, Git
+🚀 Soft Skills: Critical Thinking, Communication, Collaboration, Creativity
+🔗 Open to: AI projects, software development, and open-source initiatives
 
-I am excited about the opportunities in this sector and eager to continue expanding my knowledge.
+📌 Let’s connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/carlos-hernán-guirao-9b120b27b/)
 
 ## 🖥️ Languages and Technologies
 
