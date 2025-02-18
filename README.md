@@ -1,5 +1,3 @@
-![Banner](resources/banner.png)
-
 ## 🙋🏽‍♂️ About Me...
 
 * Passionate about software engineering, AI, and automation
